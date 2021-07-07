@@ -47,6 +47,17 @@ const HomeIndex = () => {
           <Gallery />
 
           <ul className="actions">
+            
+          <li>
+              <a href="blog" className="button">
+                Blog
+              </a>
+            </li>
+            <li>
+              <a href="#" className="button">
+                Full Portfolio
+              </a>
+            </li>
             <li>
               <a href="#" className="button">
                 Full Portfolio
